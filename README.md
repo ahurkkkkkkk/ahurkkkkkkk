@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=DotGothic16&weight=400&size=22&duration=3500&pause=900&color=00F59B&center=true&vCenter=true&width=780&height=60&lines=carving%204mb%20stealth%20browsers%20out%20of%20raw%20sockets;the%20server%20sleeps%20%E3%83%BB%20the%20background%20daemons%20listen;calibrated%20for%2021mb%20ram%20and%20zero%20wasted%20cycles;best%20inspected%20through%20an%20encrypted%20pipe%20with%20warm%20tea%20%E2%99%A1)](https://ahura.site)
 
-# ahura ・ ahura.site
+# ahura ・ ahura.site new to github
 
 **lean runtimes ・ stealth sockets ・ silent daemons ・ best parsed over an encrypted wire ♡**
 
