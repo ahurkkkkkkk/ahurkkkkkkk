@@ -28,6 +28,7 @@ curated tools, lightweight binaries, and zero fluff:
 
 * **[hjs](https://github.com/ahurkkkkkkk/hjs)** : a 4 MB stealth browser engine written in Mojo with QuickJS execution. replaces heavy headless Chromium instances with ~21 MB of quiet RAM, byte-identical JA3/JA4 TLS impersonation, and zero rendering waste.
 * **[piru-android-port](https://github.com/ahurkkkkkkk/piru-android-port)** : Android port of Lily's tracking app in Kotlin and Jetpack Compose. clean native UI, smooth mathematical curve rendering, and zero background baggage ♡
+* **[telegram-bot-mojo](https://github.com/ahurkkkkkkk/telegram-bot-mojo)** : building a no-Python-bridge native Mojo port of python-telegram-bot v22.8. 9/233 upstream modules complete; performance projections are explicitly unmeasured.
 * **stealth tunnels & wireguard** : hardened Debian network topologies, VMware ESXi virtualization, private peer-to-peer tunnels, and resilient cross-site architectures designed to stay alive through aggressive packet filtering.
 * **silent automata & telemetry** : 24/7 background automation built with Python, Telegram bots, n8n pipelines, and PRTG/Zabbix monitors to keep servers healthy and silent.
 
