@@ -44,6 +44,10 @@ curated tools, lightweight binaries, and zero fluff:
 * **databases & storage** : PostgreSQL, MySQL, Microsoft SQL Server, Microsoft Access
 * **local ai & interfaces** : Ollama, LM Studio, Jetpack Compose, WordPress backend integrations
 
+### 🎮 game mods
+
+* **[Firefly / SAM: Complete Combustion](https://github.com/ahurkkkkkkk/firefly-sam)**: a NeoForge 1.21.1 fan-mod source project with animated SAM transformation, twin swords, a combo-charged dive ultimate, and Break mechanics. Third-party model assets are excluded from the public repository.
+
 ---
 
 <div align="center">
